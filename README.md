@@ -1,7 +1,8 @@
-**
+
 🧠 Breast Cancer Detection using Convolutional Neural Networks (CNN)
+
 📌 Project Overview
-**
+
 This project focuses on the detection of breast cancer using Convolutional Neural Networks (CNN).
 The goal is to build a deep learning model capable of classifying breast tissue images as benign or malignant, supporting early diagnosis and decision-making processes in healthcare.
 
