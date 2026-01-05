@@ -14,7 +14,7 @@ The project is implemented and experimented using **Google Colab** and shared vi
 ## 🎓 Course Information
 - **Course:** Artificial Intelligence  
 - **Project Type:** Group Project  
-- **Institution:** (You can add your university name here)
+- **Institution:** Dokuz Eylul University
 
 ---
 
